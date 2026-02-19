@@ -1,0 +1,344 @@
+[
+  {
+    "id": "fine-tuning",
+    "category": "Cosmology",
+    "shortTitle": "The universe is fine-tuned for life",
+    "fullTitle": "The fine-tuning argument for the existence of God",
+    "paragraphs": [
+      "The fine-tuning argument observes that certain physical constants appear to fall within a very narrow range that allows for the emergence of complex structures and life. Proponents argue that this precision is unlikely to be the result of chance.",
+      "While the observation itself is real, the conclusion is not forced. Several alternative explanations exist, including the possibility of undiscovered physical principles, selection effects, or multiverse hypotheses. None require invoking a specific deity.",
+      "Importantly, fine-tuning arguments often move from physics into philosophy without clearly marking the transition, which can give the impression that a scientific conclusion has been reached when it has not."
+    ],
+    "links": [
+      {
+        "label": "Stanford Encyclopedia of Philosophy: Fine-Tuning",
+        "url": "https://plato.stanford.edu/entries/fine-tuning/"
+      }
+    ],
+    "tags": ["cosmology", "design", "probability"],
+    "sortOrder": 1
+  },
+  {
+    "id": "first-cause",
+    "category": "Cosmology",
+    "shortTitle": "Everything needs a cause",
+    "fullTitle": "The cosmological 'first cause' argument",
+    "paragraphs": [
+      "The first cause argument claims that because things in the universe have causes, the universe itself must have an initial cause, identified as God.",
+      "Modern physics complicates this reasoning. Causality at the quantum level does not always behave intuitively, and cosmological models do not necessarily require a singular temporal beginning in the way the argument assumes.",
+      "Even if a first cause were granted, the argument does not establish the attributes traditionally associated with the biblical God, such as omniscience, moral concern, or personal agency."
+    ],
+    "links": [
+      {
+        "label": "SEP: Cosmological Argument",
+        "url": "https://plato.stanford.edu/entries/cosmological-argument/"
+      }
+    ],
+    "tags": ["causality", "cosmology"],
+    "sortOrder": 2
+  },
+  {
+    "id": "big-bang-god",
+    "category": "Cosmology",
+    "shortTitle": "The Big Bang proves God",
+    "fullTitle": "Does the Big Bang imply a divine creator?",
+    "paragraphs": [
+      "Some argue that the Big Bang represents the moment of creation and therefore supports the existence of God.",
+      "In scientific terms, the Big Bang describes the early expansion of spacetime, not an absolute beginning from nothing. It does not specify a cause, purpose, or agent.",
+      "Using scientific discoveries as theological proof often risks a 'God of the gaps' approach, where divine action is inserted wherever current understanding is incomplete."
+    ],
+    "links": [
+      {
+        "label": "NASA: The Big Bang",
+        "url": "https://science.nasa.gov/astrophysics/focus-areas/what-powered-the-big-bang/"
+      }
+    ],
+    "tags": ["big bang", "creation"],
+    "sortOrder": 3
+  },
+  {
+    "id": "objective-morality",
+    "category": "Morality",
+    "shortTitle": "Without God, morality is impossible",
+    "fullTitle": "The claim that objective morality requires God",
+    "paragraphs": [
+      "This argument asserts that moral values must come from God; without divine authority, morality would be purely subjective.",
+      "Philosophers have proposed numerous secular accounts of morality, including those based on well-being, social contracts, evolutionary psychology, and rational consistency.",
+      "Even if objective moral truths exist, it does not follow that they must originate from a particular religious text or tradition."
+    ],
+    "links": [
+      {
+        "label": "SEP: Moral Realism",
+        "url": "https://plato.stanford.edu/entries/moral-realism/"
+      }
+    ],
+    "tags": ["ethics", "objectivity"],
+    "sortOrder": 1
+  },
+  {
+    "id": "moral-lawgiver",
+    "category": "Morality",
+    "shortTitle": "God is the moral lawgiver",
+    "fullTitle": "The moral lawgiver argument",
+    "paragraphs": [
+      "The moral lawgiver argument claims that moral laws imply a moral lawgiver, identified as God.",
+      "This analogy treats moral norms as if they were legal statutes, which may not be an accurate comparison. Moral norms can emerge from social interaction and shared human needs.",
+      "Additionally, disagreements among religious traditions about moral rules challenge the idea of a single, clear moral source."
+    ],
+    "links": [
+      {
+        "label": "Internet Encyclopedia of Philosophy: Ethics",
+        "url": "https://iep.utm.edu/ethics/"
+      }
+    ],
+    "tags": ["ethics", "law"],
+    "sortOrder": 2
+  },
+  {
+    "id": "evil-explains-god",
+    "category": "Morality",
+    "shortTitle": "Evil exists because of free will",
+    "fullTitle": "Free will as an explanation for evil",
+    "paragraphs": [
+      "Some argue that evil exists because God values human free will and allows harm as a consequence of that freedom.",
+      "This explanation does not easily account for natural evils such as earthquakes, disease, or genetic disorders, which do not arise from human choice.",
+      "Philosophers continue to debate whether free will, as commonly understood, is sufficient to justify the extent and distribution of suffering observed in the world."
+    ],
+    "links": [
+      {
+        "label": "SEP: Problem of Evil",
+        "url": "https://plato.stanford.edu/entries/evil/"
+      }
+    ],
+    "tags": ["evil", "free will"],
+    "sortOrder": 3
+  },
+  {
+    "id": "personal-experience",
+    "category": "Psychology",
+    "shortTitle": "I feel God’s presence",
+    "fullTitle": "Personal religious experience as evidence",
+    "paragraphs": [
+      "Many people cite intense personal experiences as evidence for the existence of God.",
+      "Psychology shows that powerful subjective experiences can arise from emotional states, expectation, social reinforcement, and neurological processes.",
+      "While such experiences are meaningful to individuals, they are not easily transferable as public evidence, especially when similar experiences occur across incompatible belief systems."
+    ],
+    "links": [
+      {
+        "label": "APA: Religious Experience",
+        "url": "https://www.apa.org/monitor/nov01/religion"
+      }
+    ],
+    "tags": ["experience", "subjectivity"],
+    "sortOrder": 1
+  },
+  {
+    "id": "answered-prayer",
+    "category": "Psychology",
+    "shortTitle": "Prayer works",
+    "fullTitle": "Does answered prayer demonstrate divine action?",
+    "paragraphs": [
+      "Claims of answered prayer are often offered as evidence that God intervenes in human affairs.",
+      "Controlled studies on intercessory prayer have not shown consistent effects beyond chance, and successful outcomes are subject to confirmation bias.",
+      "People tend to remember hits and forget misses, especially when outcomes are emotionally significant."
+    ],
+    "links": [
+      {
+        "label": "STEP Project on Prayer",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16569567/"
+      }
+    ],
+    "tags": ["prayer", "bias"],
+    "sortOrder": 2
+  },
+  {
+    "id": "near-death",
+    "category": "Psychology",
+    "shortTitle": "Near-death experiences prove heaven",
+    "fullTitle": "Near-death experiences and religious interpretation",
+    "paragraphs": [
+      "Near-death experiences are often described as encounters with an afterlife.",
+      "Neuroscience suggests these experiences can be explained by oxygen deprivation, neurotransmitter release, and brain activity under extreme stress.",
+      "Cultural expectations strongly influence the content of such experiences, which vary widely across societies."
+    ],
+    "links": [
+      {
+        "label": "NIH: Near-Death Experiences",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6172100/"
+      }
+    ],
+    "tags": ["neuroscience", "afterlife"],
+    "sortOrder": 3
+  },
+  {
+    "id": "historical-jesus",
+    "category": "Biblical History",
+    "shortTitle": "Jesus was a historical figure",
+    "fullTitle": "The historical existence of Jesus",
+    "paragraphs": [
+      "Most historians agree that a historical figure named Jesus of Nazareth existed.",
+      "This consensus does not extend to supernatural claims, which require different standards of evidence.",
+      "Historical existence alone does not validate theological conclusions about divinity or resurrection."
+    ],
+    "links": [
+      {
+        "label": "SEP: Historical Jesus",
+        "url": "https://plato.stanford.edu/entries/jesus/"
+      }
+    ],
+    "tags": ["history", "jesus"],
+    "sortOrder": 1
+  },
+  {
+    "id": "resurrection",
+    "category": "Biblical History",
+    "shortTitle": "The resurrection is well-attested",
+    "fullTitle": "Historical claims about the resurrection",
+    "paragraphs": [
+      "Arguments for the resurrection often rely on early textual sources and claims of eyewitness testimony.",
+      "Ancient texts frequently include miraculous claims, and historians generally require independent corroboration.",
+      "Extraordinary claims demand careful scrutiny, especially when sources are limited and the stakes are theological."
+    ],
+    "links": [
+      {
+        "label": "Bart Ehrman on the Resurrection",
+        "url": "https://ehrmanblog.org/resurrection-of-jesus/"
+      }
+    ],
+    "tags": ["resurrection", "sources"],
+    "sortOrder": 2
+  },
+  {
+    "id": "empty-tomb",
+    "category": "Biblical History",
+    "shortTitle": "The tomb was empty",
+    "fullTitle": "The empty tomb argument",
+    "paragraphs": [
+      "The empty tomb is often presented as physical evidence for the resurrection.",
+      "Accounts of the tomb vary between sources, and an empty tomb alone does not establish a supernatural explanation.",
+      "Alternative hypotheses, while imperfect, must be evaluated alongside theological interpretations."
+    ],
+    "links": [
+      {
+        "label": "SEP: Resurrection",
+        "url": "https://plato.stanford.edu/entries/resurrection/"
+      }
+    ],
+    "tags": ["tomb", "evidence"],
+    "sortOrder": 3
+  },
+  {
+    "id": "fulfilled-prophecy",
+    "category": "Prophecy",
+    "shortTitle": "Biblical prophecy was fulfilled",
+    "fullTitle": "The argument from fulfilled prophecy",
+    "paragraphs": [
+      "Some argue that fulfilled prophecy demonstrates divine authorship of the Bible.",
+      "Many prophecies are vague, written after the events they describe, or interpreted retroactively.",
+      "Predictive power is difficult to assess when criteria for fulfillment are flexible."
+    ],
+    "links": [
+      {
+        "label": "SEP: Prophecy",
+        "url": "https://plato.stanford.edu/entries/prophecy/"
+      }
+    ],
+    "tags": ["prophecy", "interpretation"],
+    "sortOrder": 1
+  },
+  {
+    "id": "messianic-prophecy",
+    "category": "Prophecy",
+    "shortTitle": "Jesus fulfilled messianic prophecy",
+    "fullTitle": "Messianic prophecy and interpretation",
+    "paragraphs": [
+      "Christian interpretations often claim Jesus fulfilled Old Testament messianic prophecies.",
+      "Jewish interpretations frequently disagree, highlighting differences in textual emphasis and translation.",
+      "This disagreement suggests interpretation plays a significant role in perceived fulfillment."
+    ],
+    "links": [
+      {
+        "label": "Jewish Encyclopedia: Messiah",
+        "url": "https://www.jewishencyclopedia.com/articles/10706-messiah"
+      }
+    ],
+    "tags": ["messiah", "textual analysis"],
+    "sortOrder": 2
+  },
+  {
+    "id": "end-times",
+    "category": "Prophecy",
+    "shortTitle": "We are living in the end times",
+    "fullTitle": "Claims about modern end-times prophecy",
+    "paragraphs": [
+      "End-times predictions have appeared repeatedly throughout history.",
+      "Past predictions have consistently failed, often being reinterpreted after the fact.",
+      "This pattern raises questions about the reliability of apocalyptic forecasting."
+    ],
+    "links": [
+      {
+        "label": "History of End-Time Predictions",
+        "url": "https://www.britannica.com/topic/apocalypticism"
+      }
+    ],
+    "tags": ["apocalypse", "history"],
+    "sortOrder": 3
+  },
+  {
+    "id": "science-needs-god",
+    "category": "Science",
+    "shortTitle": "Science explains how, God explains why",
+    "fullTitle": "Science, explanation, and meaning",
+    "paragraphs": [
+      "This argument separates scientific explanation from existential meaning.",
+      "While science does not address purpose in a metaphysical sense, this does not imply that purpose requires a deity.",
+      "Meaning can be constructed through human values, relationships, and understanding."
+    ],
+    "links": [
+      {
+        "label": "SEP: Scientific Explanation",
+        "url": "https://plato.stanford.edu/entries/scientific-explanation/"
+      }
+    ],
+    "tags": ["science", "meaning"],
+    "sortOrder": 1
+  },
+  {
+    "id": "evolution-flaw",
+    "category": "Science",
+    "shortTitle": "Evolution has gaps",
+    "fullTitle": "Misunderstandings about evolutionary theory",
+    "paragraphs": [
+      "Critics sometimes argue that gaps in the fossil record undermine evolution.",
+      "Evolutionary theory is supported by multiple independent lines of evidence, not fossils alone.",
+      "Scientific theories remain open to revision without requiring supernatural explanations."
+    ],
+    "links": [
+      {
+        "label": "Understanding Evolution",
+        "url": "https://evolution.berkeley.edu/"
+      }
+    ],
+    "tags": ["evolution", "biology"],
+    "sortOrder": 2
+  },
+  {
+    "id": "science-faith-conflict",
+    "category": "Science",
+    "shortTitle": "Science and faith don’t conflict",
+    "fullTitle": "Do science and religious faith conflict?",
+    "paragraphs": [
+      "Some argue that science and faith occupy separate domains and cannot conflict.",
+      "In practice, conflicts arise when religious claims make factual assertions about the natural world.",
+      "Compatibility depends largely on how flexible those religious claims are."
+    ],
+    "links": [
+      {
+        "label": "SEP: Science and Religion",
+        "url": "https://plato.stanford.edu/entries/science-religion/"
+      }
+    ],
+    "tags": ["science", "religion"],
+    "sortOrder": 3
+  }
+]
